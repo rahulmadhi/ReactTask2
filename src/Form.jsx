@@ -13,8 +13,8 @@ import {
 import { Box } from "@mui/system";
 
 const defaultData = {
-  firstName: "",
-  lastName: "",
+  Email: "",
+  PhoneNumber: "",
 };
 
 function Form() {
@@ -40,7 +40,7 @@ function Form() {
   return (
     <Stack alignItems="center">
       <Typography component="h2" variant="h4" mb={5}>
-       TASK 2 adding dynamic INPUTS IN FORM
+        TASK 2 adding dynamic INPUTS IN FORM
       </Typography>
       <Container maxWidth="md">
         <Card variant="outlined">
@@ -52,18 +52,18 @@ function Form() {
                   <Grid container item xs={9}>
                     <Grid item display="flex" width="100%">
                       <TextField
-                        label="First name"
-                        name="firstName"
-                        value={element.firstName}
+                        label="Email"
+                        name="Email"
+                        value={element.Email}
                         onChange={e => onChange(e, index)}
                         margin="dense"
                         fullWidth
                         sx={{ mr: 1 }}
                       />
                       <TextField
-                        label="Last name"
-                        name="lastName"
-                        value={element.lastName}
+                        label="Phone Number"
+                        name="PhoneNumber"
+                        value={element.PhoneNumber}
                         onChange={e => onChange(e, index)}
                         margin="dense"
                         fullWidth
