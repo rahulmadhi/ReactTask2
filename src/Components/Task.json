@@ -1,0 +1,67 @@
+[
+  {
+    "emp_id": "560021",
+    "emp_name": "Rahul",
+    "emp_salary": "40,000",
+    "emp_designation": "Developer",
+    "emp_gender": "M",
+    "emp_education": "MCA",
+    "emp_ex": "2 Years",
+    "companies": { "previous": "L&T", "present": "L&T" },
+    "emp_image": "https://w7.pngwing.com/pngs/31/734/png-transparent-web-development-programmer-software-development-software-developer-computer-software-world-wide-web-furniture-reading-information-technology.png",
+    "emp_skills": ["java", "sql", "mongoDB", "linux"],
+    "emp_city": "bangalore"
+  },
+  {
+    "emp_id": "5635",
+    "emp_name": "sudhesh",
+    "emp_salary": "10,000",
+    "emp_designation": "tester",
+    "emp_gender": "M",
+    "emp_education": "bca",
+    "emp_ex": "2 Years",
+    "companies": { "previous": "capgemini", "present": "TYSS" },
+    "emp_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg",
+    "emp_skills": ["java", "sql", "mongoDB", "linux"],
+    "emp_city": "J & K"
+  },
+  {
+    "emp_id": "233523",
+    "emp_name": "ningraj",
+    "emp_salary": "120,000",
+    "emp_designation": "python developer",
+    "emp_gender": "M",
+    "emp_education": "BSC",
+    "emp_ex": "4 Years",
+    "companies": { "previous": "google", "present": "TYSS" },
+    "emp_image": "https://envri.eu/wp-content/uploads/2016/08/software-developer-copy.jpg",
+    "emp_skills": ["java", "sql", "mongoDB", "linux"],
+    "emp_city": "delhi"
+  },
+  {
+    "emp_id": "2352",
+    "emp_name": "Pooja",
+    "emp_salary": "20,000",
+    "emp_designation": "trainer",
+    "emp_gender": "F",
+    "emp_education": "MSC",
+    "emp_ex": "9 Years",
+    "companies": { "previous": "supertester", "present": "tcs" },
+    "emp_image": "data:image/jpeg;base64,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",
+    "emp_skills": ["java", "sql", "mongoDB", "linux"],
+    "emp_city": "punjab"
+  },
+  {
+    "emp_id": "35252",
+    "emp_name": "kavitha",
+    "emp_salary": "210,000",
+    "emp_designation": "tester",
+    "emp_gender": "F",
+    "emp_education": "math",
+    "emp_ex": "2 Years",
+    "companies": { "previous": "supertester", "present": "tcs" },
+    "emp_image": "https://thumbs.dreamstime.com/b/man-developer-thinking-software-program-code-cartoon-vector-character-isolated-flat-illustration-220801519.jpg",
+    "emp_skills": ["java", "sql", "mongoDB", "linux"],
+    "emp_city": "chennai"
+  }
+]

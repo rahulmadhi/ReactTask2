@@ -1,0 +1,4 @@
+.table_class > tr > td {
+  border: 2px solid rgb(33, 18, 18);
+  gap: 120px;
+}
